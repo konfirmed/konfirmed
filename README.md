@@ -18,7 +18,6 @@ I build systems where **performance, culture, and commerce converge**.
 - 🧪 Founder of **Knfrmd Web Corp** — delivering tools that drive measurable outcomes
 - 🚀 Creator of: **CrUX Dashboard**, **KanmiSuite CLI**, **Nigerians.ca**, and more
 - 🇳🇬 Nigerian-born | 🇨🇦 Based in BC, Canada  
-- ✝️ Christian
 - 💡 Strategic by default  
 
 ---
