@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fe0ad0df-837a-4fe9-9164-8017fae373d7" /><h1 align="center">👋🏾 Hey, I'm Kanmi Obasa — aka <code>@konfirmed</code></h1>
+<h1 align="center">👋🏾 Hey, I'm Kanmi Obasa — aka <code>@konfirmed</code></h1>
 <h3 align="center">Web Performance Strategist | Builder | Technical Founder</h3>
 
 <p align="center">
