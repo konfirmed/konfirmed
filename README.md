@@ -67,13 +67,3 @@ I build systems where **performance, culture, and commerce converge**.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konfirmed&layout=compact&hide=css,html&langs_count=6" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=konfirmed&theme=default" />
-</p>
-
