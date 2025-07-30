@@ -63,7 +63,7 @@ I build systems where **performance, culture, and commerce converge**.
 - 🌐 [kanmiobasa.com](https://kanmiobasa.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/konfirmed)  
 - 🐦 [Twitter](https://twitter.com/konfirmed)  
-- 📦 [npmjs.com/~konfirmed](https://www.npmjs.com/~konfirmed)  
+- 📦 [npmjs.com/~konfirmed](https://www.npmjs.com/~knfrmd)  
 
 ---
 
