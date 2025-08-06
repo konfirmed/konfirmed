@@ -1,4 +1,4 @@
-<h1 align="center">👋🏾 Hey, I'm Kanmi Obasa — aka <code>@konfirmed</code></h1>
+<h1 align="center">👋🏾 Hey, I'm K.O — aka <code>@konfirmed</code></h1>
 <h3 align="center">Web Performance Strategist | Builder | Technical Founder</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 I build systems where **performance, culture, and commerce converge**.
 
-- 💼 Senior Engineer II, Web Performance @ **Lululemon**
+- 💼 Senior Engineer @ ecommerce Company
 - 🧪 Founder of **Knfrmd Web Corp** — delivering tools that drive measurable outcomes
 - 🚀 Creator of: **CrUX Dashboard**, **KanmiSuite CLI**, **Nigerians.ca**, and more
 - 🇳🇬 Nigerian-born | 🇨🇦 Based in BC, Canada  
