@@ -2,15 +2,15 @@
 <h3 align="center">Web Performance Strategist | Builder | Technical Founder</h3>
 
 <p align="center">
-  <a href="https://www.npmjs.com/~konfirmed"><img src="https://img.shields.io/npm/dm/kanmi-perf?style=flat-square&color=orange&label=npm%20downloads" alt="npm downloads" /></a>
+  <a href="https://www.npmjs.com/~knfrmd"><img src="https://img.shields.io/npm/dm/kanmi-perf-advanced?style=flat-square&color=orange&label=npm%20downloads" alt="npm downloads" /></a>
   <a href="https://github.com/konfirmed"><img src="https://img.shields.io/github/followers/konfirmed?style=flat-square&label=GitHub&logo=github" alt="GitHub followers" /></a>
-  <a href="https://twitter.com/konfirmed"><img src="https://img.shields.io/twitter/follow/konfirmed?style=flat-square&logo=twitter&color=blue" alt="Twitter Follow" /></a>
-  <a href="https://linkedin.com/in/kanmiobasa"><img src="https://img.shields.io/badge/LinkedIn-kanmiobasa-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/kanmiobasa"><img src="https://img.shields.io/twitter/follow/konfirmed?style=flat-square&logo=twitter&color=blue" alt="Twitter Follow" /></a>
+  <a href="https://linkedin.com/in/konfirmed"><img src="https://img.shields.io/badge/LinkedIn-konfirmed-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I build systems where **performance, culture, and commerce converge**.
 
@@ -22,12 +22,11 @@ I build systems where **performance, culture, and commerce converge**.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### ⚙ Developer Tooling
 - 🔧 [**KanmiSuite CLI**](https://github.com/konfirmed/kanmi-suite-cli): SEO, performance & analytics auditing from the terminal  
-- ⚙️ [**kanmi-perf**](https://www.npmjs.com/package/kanmi-perf): GitHub/GitLab-based web vitals inspector for CI/CD  
-- 🧾 [**Blue Triangle CLI**](https://github.com/konfirmed/bluetriangle-cli-reporter): Markdown reports for enterprise performance ops
+- ⚙️ [**kanmi-perf-advanced**](https://www.npmjs.com/package/kanmi-perf-advanced): GitHub/GitLab-based web vitals inspector for CI/CD  
 
 #### 📊 Performance & Insights
 - 🌍 [**CrUX Dashboard**](https://knfrmd.com/crux-report): Real-user web performance for the top 1000 websites per country  
@@ -35,17 +34,8 @@ I build systems where **performance, culture, and commerce converge**.
   → Built using CrUX, Lighthouse, and custom automation  
 
 #### 🌍 Cultural + Civic Tech
-- 🇨🇦 [**Nigerians.ca**](https://nigerians.ca): Canadian platform for Nigerians — tools, diaspora support, community  
-- ✝️ **Names of God API** *(WIP)*: Cross-cultural exploration of divine names in Yoruba, Hebrew, Mandarin  
+- 🇨🇦 [**Nigerians.ca**](https://nigerians.ca): Canadian platform for Nigerians — tools, diaspora support, community   
 - 🇳🇬 [**Civic.ng**](https://civic.ng) *(WIP)*: Structured civic knowledge base + governance simulations for Nigeria
-
----
-
-### 📈 Impact Snapshot
-
-- 💰 Helped unlock **$100M+ in revenue** through web performance & SEO  
-- 📦 Tools trusted by commerce, government, and enterprise teams  
-- 🧠 Driving clarity through performance enforcement, AI automation, and developer education
 
 ---
 
@@ -62,7 +52,7 @@ I build systems where **performance, culture, and commerce converge**.
 
 - 🌐 [kanmiobasa.com](https://kanmiobasa.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/konfirmed)  
-- 🐦 [Twitter](https://twitter.com/konfirmed)  
+- 🐦 [Twitter](https://twitter.com/kanmiobasa)  
 - 📦 [npmjs.com/~konfirmed](https://www.npmjs.com/~knfrmd)  
 
 ---
