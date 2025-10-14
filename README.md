@@ -14,7 +14,7 @@
 
 I build systems where **performance, culture, and commerce converge**.
 
-- 💼 Senior Engineer @ ecommerce Company
+- 💼 Senior Engineer @ retail Company
 - 🧪 Founder of **Knfrmd Web Corp** — delivering tools that drive measurable outcomes
 - 🚀 Creator of: **CrUX Dashboard**, **KanmiSuite CLI**, **Nigerians.ca**, and more
 - 🇳🇬 Nigerian-born | 🇨🇦 Based in BC, Canada  
@@ -30,21 +30,12 @@ I build systems where **performance, culture, and commerce converge**.
 
 #### 📊 Performance & Insights
 - 🌍 [**CrUX Dashboard**](https://knfrmd.com/crux-report): Real-user web performance for the top 1000 websites per country  
-  → Track LCP, CLS, and TBT for national and global benchmarks  
+  → Track TTFB, LCP, CLS, and INP, Onload for national and global benchmarks  
   → Built using CrUX, Lighthouse, and custom automation  
 
 #### 🌍 Cultural + Civic Tech
 - 🇨🇦 [**Nigerians.ca**](https://nigerians.ca): Canadian platform for Nigerians — tools, diaspora support, community   
 - 🇳🇬 [**Civic.ng**](https://civic.ng) *(WIP)*: Structured civic knowledge base + governance simulations for Nigeria
-
----
-
-### 🛠 Tech Stack
-
-`JavaScript` · `TypeScript` · `Python`  
-`React` · `Next.js` · `Svelte` · `TailwindCSS` · `Node.js`  
-`Lighthouse` · `WebPageTest` · `CrUX` · `Blue Triangle`  
-`CI/CD` · `GitHub Actions` · `Azure` · `GA4` · `OpenAI API`
 
 ---
 
