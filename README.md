@@ -26,7 +26,8 @@ I build systems where **performance, culture, and commerce converge**.
 
 #### ⚙ Developer Tooling
 - 🔧 [**KanmiSuite CLI**](https://github.com/konfirmed/kanmi-suite-cli): SEO, performance & analytics auditing from the terminal  
-- ⚙️ [**kanmi-perf-advanced**](https://www.npmjs.com/package/kanmi-perf-advanced): GitHub/GitLab-based web vitals inspector for CI/CD  
+- ⚙️ [**kanmi-perf-advanced**](https://www.npmjs.com/package/kanmi-perf-advanced): GitHub/GitLab-based web vitals inspector for CI/CD
+- 🌍 [**kanmiSEO**](https://audit.kanmiobasa.com): WIP. Find out what impact your web performance has in terms of SEO/AI Crawlers
 
 #### 📊 Performance & Insights
 - 🌍 [**CrUX Dashboard**](https://knfrmd.com/crux-report): Real-user web performance for the top 1000 websites per country  
