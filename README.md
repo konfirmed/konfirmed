@@ -1,5 +1,5 @@
 <h1 align="center">👋🏾 Hey, I'm K.O — aka <code>@konfirmed</code></h1>
-<h3 align="center">Web Performance Strategist | Builder | Technical Founder</h3>
+<h3 align="center">Web Performance Strategist | Builder</h3>
 
 <p align="center">
   <a href="https://www.npmjs.com/~knfrmd"><img src="https://img.shields.io/npm/dm/kanmi-perf-advanced?style=flat-square&color=orange&label=npm%20downloads" alt="npm downloads" /></a>
@@ -13,12 +13,6 @@
 ### About Me
 
 I build systems where **performance, culture, and commerce converge**.
-
-- 💼 Senior Engineer @ retail Company
-- 🧪 Founder of **Knfrmd Web Corp** — delivering tools that drive measurable outcomes
-- 🚀 Creator of: **CrUX Dashboard**, **KanmiSuite CLI**, **Nigerians.ca**, and more
-- 🇳🇬 Nigerian-born | 🇨🇦 Based in BC, Canada  
-- 💡 Strategic by default  
 
 ---
 
@@ -37,6 +31,9 @@ I build systems where **performance, culture, and commerce converge**.
 #### 🌍 Cultural + Civic Tech
 - 🇨🇦 [**Nigerians.ca**](https://nigerians.ca): Canadian platform for Nigerians — tools, diaspora support, community   
 - 🇳🇬 [**Civic.ng**](https://civic.ng) *(WIP)*: Structured civic knowledge base + governance simulations for Nigeria
+
+#### Simulation
+- [**Providence**](https://providence.kanmiobasa.com): Detailed demographic modelling with realistic life stages, environmental factors and dynamic events
 
 ---
 
