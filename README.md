@@ -58,7 +58,7 @@ Focus: **CI/CD, audits, automation, and signal extraction**
 Not everything I build is for engineers.
 
 - 🇨🇦 [Nigerians.ca](https://nigerians.ca) — infrastructure for diaspora connection and commerce  
-- 🇳🇬 Civic.ng (in progress) — systems for civic understanding and governance simulation  
+- 🇳🇬 [Civic.ng](https://civic.ng) — systems for civic understanding and governance simulation  
 
 These are long-term plays: **distribution, trust, and influence**
 
