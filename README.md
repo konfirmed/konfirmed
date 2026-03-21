@@ -1,48 +1,88 @@
-<h1 align="center">👋🏾 Hey, I'm K.O — aka <code>@konfirmed</code></h1>
-<h3 align="center">Web Performance Strategist | Builder</h3>
+<h1 align="center">K.O. Obasa — <code>@konfirmed</code></h1>
+<h3 align="center">Performance Engineer • Product Builder • Founder</h3>
+
+<p align="center">
+  I turn web performance and technical systems into measurable business outcomes.
+</p>
 
 <p align="center">
   <a href="https://www.npmjs.com/~knfrmd"><img src="https://img.shields.io/npm/dm/kanmi-perf-advanced?style=flat-square&color=orange&label=npm%20downloads" alt="npm downloads" /></a>
   <a href="https://github.com/konfirmed"><img src="https://img.shields.io/github/followers/konfirmed?style=flat-square&label=GitHub&logo=github" alt="GitHub followers" /></a>
-  <a href="https://twitter.com/kanmiobasa"><img src="https://img.shields.io/twitter/follow/konfirmed?style=flat-square&logo=twitter&color=blue" alt="Twitter Follow" /></a>
   <a href="https://linkedin.com/in/konfirmed"><img src="https://img.shields.io/badge/LinkedIn-konfirmed-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### About Me
+I operate at the intersection of **performance engineering, product systems, and real-world impact**.
 
-I build systems where **performance, culture, and commerce converge**.
-
----
-
-### Featured Projects
-
-#### ⚙ Developer Tooling
-- 🔧 [**KanmiSuite CLI**](https://github.com/konfirmed/kanmi-suite-cli): SEO, performance & analytics auditing from the terminal  
-- ⚙️ [**kanmi-perf-advanced**](https://www.npmjs.com/package/kanmi-perf-advanced): GitHub/GitLab-based web vitals inspector for CI/CD
-- 🌍 [**kanmiSEO**](https://audit.kanmiobasa.com): WIP. Find out what impact your web performance has in terms of SEO/AI Crawlers
-
-#### 📊 Performance & Insights
-- 🌍 [**CrUX Dashboard**](https://knfrmd.com/crux-report): Real-user web performance for the top 1000 websites per country  
-  → Track TTFB, LCP, CLS, and INP, Onload for national and global benchmarks  
-  → Built using CrUX, Lighthouse, and custom automation  
-
-#### 🌍 Cultural + Civic Tech
-- 🇨🇦 [**Nigerians.ca**](https://nigerians.ca): Canadian platform for Nigerians — tools, diaspora support, community   
-- 🇳🇬 [**Civic.ng**](https://civic.ng) *(WIP)*: Structured civic knowledge base + governance simulations for Nigeria
-
-#### Simulation
-- [**Providence**](https://providence.kanmiobasa.com): Detailed demographic modelling with realistic life stages, environmental factors and dynamic events
+My focus is simple:
+- make systems faster  
+- make decisions clearer  
+- tie engineering directly to revenue, reliability, and scale  
 
 ---
 
-### 📬 Let’s Connect
+## Selected Impact
 
-- 🌐 [kanmiobasa.com](https://kanmiobasa.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/konfirmed)  
-- 🐦 [Twitter](https://twitter.com/kanmiobasa)  
-- 📦 [npmjs.com/~konfirmed](https://www.npmjs.com/~knfrmd)  
+- Delivered performance improvements tied to **$100M+ in revenue opportunity** across high-traffic platforms  
+- Identified and resolved critical bottlenecks contributing to **multi-million dollar gains** in production systems  
+- Built performance and observability systems used across **enterprise-scale environments**  
+- Designed tooling that translates **Core Web Vitals → business impact → actionable fixes**
 
 ---
 
+## What I Build
+
+### 1. Systems that Convert Performance → Revenue
+I don’t optimize for scores.  
+I build systems that connect **speed, UX, and business outcomes**.
+
+- Performance diagnostics pipelines  
+- Revenue impact modeling  
+- Real-user monitoring + insight layers  
+
+---
+
+### 2. Developer Tooling that Scales Decision-Making
+I build tools that reduce guesswork and increase execution speed.
+
+- 🔧 [KanmiSuite CLI](https://github.com/konfirmed/kanmi-suite-cli)  
+- ⚙️ [kanmi-perf-advanced](https://www.npmjs.com/package/kanmi-perf-advanced)  
+- 🕸️ [kanmiSEO](https://audit.kanmiobasa.com)
+
+Focus: **CI/CD, audits, automation, and signal extraction**
+
+---
+
+### 3. Platforms with Cultural and Civic Leverage
+Not everything I build is for engineers.
+
+- 🇨🇦 [Nigerians.ca](https://nigerians.ca) — infrastructure for diaspora connection and commerce  
+- 🇳🇬 Civic.ng (in progress) — systems for civic understanding and governance simulation  
+
+These are long-term plays: **distribution, trust, and influence**
+
+---
+
+## Operating Principles
+
+- **Speed is a feature, not a metric**
+- **If it doesn’t tie to outcomes, it’s noise**
+- **Simple systems scale; complex ones fail**
+- **Engineering should create leverage, not just output**
+
+---
+
+## Current Focus
+
+- Expanding KanmiSuite into a unified performance + SEO intelligence system  
+- Building platforms that connect **Africa ↔ North America** through technology and commerce  
+- Creating tools that move teams from **data → clarity → action**
+
+---
+
+## Connect
+
+- 🌐 https://kanmiobasa.com  
+- 💼 https://linkedin.com/in/konfirmed  
+- 📦 https://www.npmjs.com/~knfrmd  
