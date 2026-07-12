@@ -21,8 +21,7 @@
 
 ---
 
-### Developer Tooling that Scales Decision-Making
-I build tools that reduce guesswork and increase execution speed.
+### Developer Tooling
 
 - 🔧 [KanmiSuite CLI](https://github.com/konfirmed/kanmi-suite-cli)  
 - ⚙️ [kanmi-perf-advanced](https://www.npmjs.com/package/kanmi-perf-advanced)  
@@ -33,13 +32,10 @@ Focus: **CI/CD, audits, automation, and signal extraction**
 ---
 
 ### Platforms with Cultural and Civic Leverage
-Not everything I build is for engineers.
 
 - 🇨🇦 [Nigerians.ca](https://www.nigerians.ca) — infrastructure for diaspora connection and commerce  
 - 🇳🇬 [Civic.ng](https://www.civic.ng) — systems for civic understanding and governance simulation
 - Y [Yoruba.ca](https://www.yoruba.ca) 
-
-These are long-term plays: **distribution, trust, and influence**
 
 ---
 
