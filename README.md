@@ -18,8 +18,11 @@
 
 ---
 
-### Platforms with Cultural and Civic Leverage
+### Passion Projects
 
-- 🇨🇦 [Nigerians.ca](https://www.nigerians.ca) — infrastructure for diaspora connection and commerce  
-- 🇳🇬 [Civic.ng](https://www.civic.ng) — systems for civic understanding and governance simulation
-- Y [Yoruba.ca](https://www.yoruba.ca) 
+- 🇨🇦 [Nigerians.ca](https://www.nigerians.ca) - infrastructure for diaspora connection and commerce  
+- 🇳🇬 [Civic.ng](https://www.civic.ng) - systems for civic understanding and governance simulation
+- 🇳🇬 [https://www.pattern.ng](Pattern.ng) - - - -- --- ----- -------- ... .
+- Y [Yoruba.ca](https://www.yoruba.ca) - -_-
+- N [namesofgod.kanmiobasa.com]{Names of God) - :) 
+ 
