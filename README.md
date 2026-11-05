@@ -11,23 +11,6 @@
   <a href="https://linkedin.com/in/konfirmed"><img src="https://img.shields.io/badge/LinkedIn-konfirmed-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
----
-
-## Selected Impact
-
-- Delivered performance improvements tied to **$100M+ in revenue opportunity** across high-traffic platforms  
-- Identified and resolved critical bottlenecks contributing to **multi-million dollar gains** in production systems  
-- Built performance and observability systems used across **enterprise-scale environments**  
-
----
-
-### Developer Tooling
-
-- 🔧 [KanmiSuite CLI](https://github.com/konfirmed/kanmi-suite-cli)  
-- ⚙️ [kanmi-perf-advanced](https://www.npmjs.com/package/kanmi-perf-advanced)  
-- 🕸️ [kanmiSEO](https://audit.kanmiobasa.com)
-
-Focus: **CI/CD, audits, automation, and signal extraction**
 
 ---
 
